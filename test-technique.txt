@@ -29,3 +29,5 @@ Stack imposée :
   - Front: VueJS
   - Back: NodeJS
   - DB: MongoDB
+
+Rajouter cette ligne :export MONGO_URI='mongodb+srv://admin:dbUserPassword@cluster0.yedu8.mongodb.net/<dbname>?retryWrites=true&w=majority'
